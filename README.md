@@ -1,5 +1,5 @@
 # Happy-Farm
-Data Structures Assignment 2
+ ## Data Structures Assignment 2
  
  As a hard-working farmer with a grand farm, Bob always takes care of everything in the farm by himself. Planting the crop one by one is so satisfying that he is happy everyday. Happy as Bob is, he is also forgetful. To keep the crop safe, each piece of crop should come with a fence, yet Bob sometimes forgets to set a fence when planting the crop.
 
